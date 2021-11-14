@@ -25,7 +25,7 @@
 
 ---
 
-<img align="left" alt="Roni-Harel Github Status" src="https://github-readme-stats.vercel.app/api?username=Roni-Harel&show_icons=true&theme=onedark">
+<img align="left" alt="RoniHarel100 Github Status" src="https://github-readme-stats.vercel.app/api?username=RoniHarel100&show_icons=true&theme=onedark">
 
-<img align="left" alt="Roni-Harel Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roni-Harel&layout=compact&theme=onedark">
+<img align="left" alt="RoniHarel100 Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniHarel100&layout=compact&theme=onedark">
 

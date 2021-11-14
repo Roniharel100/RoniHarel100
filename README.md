@@ -6,9 +6,9 @@
 
 <h3> 📫 Contact Me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/roniharel/)](http://www.linkedin.com/in/roniharel)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/roni-harel/)](http://www.linkedin.com/in/roni-harel)
 [![Gmail Badge](https://img.shields.io/badge/-roniharel10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roniharel10@gmail.com)](mailto:roniharel10@gmail.com)
-<a href="https://www.facebook.com/roniharel/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="20"/></a>
+<a href="https://www.facebook.com/roni.harel.54/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="20"/></a>
 <a href="https://www.hackerrank.com/roniharel"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" height="20"/></a>
 
 ### Languages and Tools:
